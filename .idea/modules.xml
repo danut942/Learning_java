@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnounceTeaTime/AnnounceTeaTime.iml" filepath="$PROJECT_DIR$/AnnounceTeaTime/AnnounceTeaTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" filepath="$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculateMealPrice/CalculateMealPrice.iml" filepath="$PROJECT_DIR$/CalculateMealPrice/CalculateMealPrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallenge_ControlFlow/CodeChallenge_ControlFlow.iml" filepath="$PROJECT_DIR$/CodeChallenge_ControlFlow/CodeChallenge_ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FortuneTeller/FortuneTeller.iml" filepath="$PROJECT_DIR$/FortuneTeller/FortuneTeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_java.iml" filepath="$PROJECT_DIR$/Learning_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentProfile/StudentProfile.iml" filepath="$PROJECT_DIR$/StudentProfile/StudentProfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>
