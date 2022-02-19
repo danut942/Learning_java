@@ -6,8 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" filepath="$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculateMealPrice/CalculateMealPrice.iml" filepath="$PROJECT_DIR$/CalculateMealPrice/CalculateMealPrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChallenge_ControlFlow/CodeChallenge_ControlFlow.iml" filepath="$PROJECT_DIR$/CodeChallenge_ControlFlow/CodeChallenge_ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErrorHandling/ErrorHandling.iml" filepath="$PROJECT_DIR$/ErrorHandling/ErrorHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/FortuneTeller/FortuneTeller.iml" filepath="$PROJECT_DIR$/FortuneTeller/FortuneTeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning_java.iml" filepath="$PROJECT_DIR$/Learning_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorfism/Polymorfism.iml" filepath="$PROJECT_DIR$/Polymorfism/Polymorfism.iml" />
       <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentProfile/StudentProfile.iml" filepath="$PROJECT_DIR$/StudentProfile/StudentProfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
